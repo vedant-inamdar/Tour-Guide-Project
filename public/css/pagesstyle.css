@@ -1,0 +1,16 @@
+img {
+    /* position: relative; */
+    width: 35.5%;
+    top: 21%;
+    left: 63%;
+    margin-left: 45%;
+    border-radius: 12px;
+}
+
+body {
+    /* background-image: url("https://previews.123rf.com/images/originalwork/originalwork1712/originalwork171200059/92043076-travel-and-tourism-background-travel-concept-ready-for-summer-top-view-concept-website-template.jpg"); */
+    /* background-image: url("https://cdn.vectorstock.com/i/1000x1000/94/27/travel-check-list-template-background-vector-23799427.webp"); */
+    background-image: url("https://png.pngtree.com/background/20210709/original/pngtree-color-travel-tourism-vacation-picture-image_917677.jpg");
+    background-repeat: no-repeat;
+    background-size: 1550px 720px;
+}

@@ -1,0 +1,27 @@
+h1 {
+    margin-top: 0%;
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+    background: -webkit-radial-gradient(circle,
+            rgba(13, 8, 96, 1) 0%,
+            rgba(9, 9, 121, 1) 21%,
+            rgba(6, 84, 170, 1) 51%,
+            rgba(0, 255, 113, 1) 100%);
+}
+
+p {
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(78, 78, 256);
+}
+
+a {
+    text-align: center;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: 1550px 750px;
+    background-image: url("https://img.freepik.com/free-vector/travel-concept-with-landmarks_1057-4873.jpg?w=740&t=st=1683370026~exp=1683370626~hmac=5c382df7ea32b67f8e1f7f24cecdda487c34372fabb23a1723b8d68d31014b14");
+}
